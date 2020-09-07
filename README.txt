@@ -13,6 +13,14 @@
 
 # ——————————— Files ——————————————— #
 
-1. New_Model.py - Contains the main code (including preprocessing and the model
-2. crfpostagger - Needs to be in same directory
-3. Data_Set - If in zip format unzips it and place the folder in the same director along with these two files
+1. New_Model.py - Contains the main code (including preprocessing and the model.
+2. crfpostagger - Needs to be in same directory. It is used for POS tagging the input.
+3. Data_Set - If in zip format unzips it and place the folder in the same director along with these two files.
+
+
+# --------- Running the project --------- #
+1. Extract the folder at a suitable location.
+2. Download the pre-requisites
+3. go to the folder and run the New_Model.py file.
+4. It will train the model and print the results.
+5. The best trained model will get saved in CNN folder can be used for evaluation. 
