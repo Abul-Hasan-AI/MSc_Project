@@ -20,6 +20,7 @@
 
 # --------- Running the project --------- #
 1. Extract the folder at a suitable location.
+2. unzip the Data_Set.zip in the same folder.
 2. Download the pre-requisites
 3. go to the folder and run the New_Model.py file.
 4. It will train the model and print the results.
